@@ -49,6 +49,8 @@ partial class Program
                                        ";TYPE:Internal solid infill",
                                        ";TYPE:Top surface", 
                                        ";TYPE:Bottom surface",
+                                       ";TYPE:Gap infill",
+                                       ";TYPE:Gap fill",
                                        "; FEATURE: Top surface",
                                        "; FEATURE: Internal solid infill",
                                        "; FEATURE: Bottom surface"};
